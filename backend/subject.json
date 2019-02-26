@@ -1,0 +1,130 @@
+[
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001001",
+		"subject_nm" : "자료구조",
+		"grade" : "3",
+		"subject_time" : [[1,2,10,11], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001002",
+		"subject_nm" : "컴퓨터회로",
+		"grade" : "3",
+		"subject_time" : [[3,4,12,13], [19, 20, 35, 36], [5, 6, 14,15]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001003",
+		"subject_nm" : "데이터베이스",
+		"grade" : "3",
+		"subject_time" : [[5,6,17,18], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001004",
+		"subject_nm" : "데이터통신",
+		"grade" : "3",
+		"subject_time" : [[1,2,10,11], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001005",
+		"subject_nm" : "프로그래밍 연습",
+		"grade" : "2",
+		"subject_time" : [[3,4], [19, 20], [5, 6]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001006",
+		"subject_nm" : "임베디드소프트웨어",
+		"grade" : "2",
+		"subject_time" : [[9,10], [13,14], [17,18]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001007",
+		"subject_nm" : "공업수학",
+		"grade" : "2",
+		"subject_time" : [[21,22], [33, 34], [39,40]]
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"subject_code" : "A001008",
+		"subject_nm" : "컴퓨터네트워크",
+		"grade" : "2",
+		"subject_time" : [[23,24], [27,28], [31,32]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001001",
+		"subject_nm" : "자료구조",
+		"grade" : "3",
+		"subject_time" : [[1,2,10,11], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001002",
+		"subject_nm" : "컴퓨터회로",
+		"grade" : "3",
+		"subject_time" : [[3,4,12,13], [19, 20, 35, 36], [5, 6, 14,15]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001003",
+		"subject_nm" : "데이터베이스",
+		"grade" : "3",
+		"subject_time" : [[5,6,17,18], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001004",
+		"subject_nm" : "데이터통신",
+		"grade" : "3",
+		"subject_time" : [[1,2,10,11], [17, 18, 27, 28], [36, 37, 39,40]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001005",
+		"subject_nm" : "프로그래밍 연습",
+		"grade" : "2",
+		"subject_time" : [[3,4], [19, 20], [5, 6]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001006",
+		"subject_nm" : "임베디드소프트웨어",
+		"grade" : "2",
+		"subject_time" : [[9,10], [13,14], [17,18]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001007",
+		"subject_nm" : "공업수학",
+		"grade" : "2",
+		"subject_time" : [[21,22], [33, 34], [39,40]]
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"subject_code" : "A001008",
+		"subject_nm" : "컴퓨터네트워크",
+		"grade" : "2",
+		"subject_time" : [[23,24], [27,28], [31,32]]
+	}
+]

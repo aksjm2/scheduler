@@ -1,0 +1,22 @@
+[
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0001",
+		"dept_nm" : "컴퓨터공학과"
+	},
+	{
+		"univ_code" : "1001",
+		"dept_code" : "A0002",
+		"dept_nm" : "경영학과"
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0001",
+		"dept_nm" : "컴퓨터공학과"
+	},
+	{
+		"univ_code" : "1002",
+		"dept_code" : "A0002",
+		"dept_nm" : "수학과"
+	}
+]
