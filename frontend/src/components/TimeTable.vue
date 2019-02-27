@@ -1,5 +1,5 @@
 <template>
-	<div style="width:800px; margin:0 auto">
+	<div style="margin:0 auto" class="container">
 		<h1>Time Tables</h1>
 		<table class="table table-bordered small" id="searchTable">
 			<tr>
